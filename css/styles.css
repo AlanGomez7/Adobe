@@ -1,0 +1,84 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.adobe-creative-logo{
+  height: 35rem;
+  width: 49rem;
+  position: absolute;
+  right: 0;
+  top: 110px;
+}
+
+
+.body-images{
+  height: 500px;
+  width: 1000px;
+  }
+  .cards{
+    /* height: 550px; */
+    width: 461px;
+    background-color: bisque;
+    display: inline-block;
+    margin: 20px;
+  }
+  
+  #card1{
+    background-color: red;
+    margin-left: 72px;    
+  }
+  
+  #card2{
+    background-image : linear-gradient(bisque, red  );
+    margin-left: 20px;
+    padding: 30px;
+  }
+  
+  #card3{
+    background-image : red;
+  }
+
+  .code1{
+    margin-top: 35px;
+    background-color: rgb(84, 84, 179);
+    width: 100%;
+    height: 500px;
+    padding-top: 80px;
+  }
+  
+  .foot-image{
+    /* height: 400px; */
+    width: 100%;
+    
+  }
+  
+  
+  h1{
+    color: white;
+    font-size: 2.375rem;
+    line-height: 1.375;
+    display: inline-block;
+    margin-left: 200px;
+  }
+  
+  h2{
+    color: white;
+    font-size: 2.375rem;
+    line-height: 1.375;
+    display: inline-block;
+    margin-left: 200px;
+  }
+  
+  
+  h3{
+    color: red;
+    display: inline-block;
+    margin-left: 200px;
+    margin-top: 100px;
+    color: white;
+  }
